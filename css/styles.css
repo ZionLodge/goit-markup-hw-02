@@ -24,7 +24,7 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
-  line-height: 1, 17;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -47,12 +47,13 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
 .header-nav-link:hover .header-nav-link:focus {
   color: var(--pressed-state-color);
+  color: #404bbf;
 }
 
 .address {
@@ -130,7 +131,11 @@ body {
 }
 
 .our-team-background {
-  color: var(--light-color);
+  background-color: var(--light-color);
+}
+
+.h3-background {
+  background-color: var(--white-background-color);
 }
 
 .employee-name {
@@ -143,6 +148,7 @@ body {
 }
 
 .employee-job {
+  color: var(--text-color);
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.32px;
@@ -165,8 +171,9 @@ body {
 
 .portfolio-filter-button {
   font-family: "Roboto", sans-serif;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   text-align: center;
   border-radius: 4px;
@@ -179,7 +186,9 @@ body {
 .portfolio-filter-button:hover .portfolio-filter-button:focus {
   border-radius: 4px;
   color: var(--white-background-color);
+  color: #ffffffff;
   background: var(--pressed-state-color);
+  background-color: #404bbf;
   box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12),
     0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.1);
 }
@@ -189,14 +198,14 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1, 2;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
 .service-category {
   color: var(--text-color);
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
