@@ -65,7 +65,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -84,7 +84,7 @@ body {
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 107.143%;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
@@ -95,7 +95,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.64px;
   cursor: pointer;
 }
@@ -110,14 +110,14 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
 .we-offer-content {
   color: var(--text-color);
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -127,7 +127,7 @@ body {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 111.111%;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -145,14 +145,14 @@ body {
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
 .employee-job {
   color: var(--text-color);
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -163,7 +163,7 @@ body {
 .footer-content {
   color: var(--light-color);
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
