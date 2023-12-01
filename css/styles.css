@@ -143,7 +143,7 @@ color:var(--primary-brand-color)
 .footer-content {
     color: var(--light-color);
     font-size: 16px;
-    line-height: 24px; /* 150% */
+    line-height: 150%; 
     letter-spacing: 0.32px;
 }
 
@@ -153,6 +153,7 @@ color:var(--primary-brand-color)
     color: var(--primary-brand-color);
     background-color: var(--light-color);
     border-color: var(--accent-color);
+    cursor: pointer;
 }
 
 .portfolio-filter-button:active {
