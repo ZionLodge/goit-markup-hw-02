@@ -105,7 +105,7 @@ body {
   background-color: var(--pressed-state-color);
 }
 
-.subtitle {
+.h3-subtitle {
   color: var(--dark-color);
   font-size: 20px;
   font-style: normal;
